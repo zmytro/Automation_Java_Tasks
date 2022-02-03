@@ -21,7 +21,7 @@ public class Ex3_Loops {
                     || string.charAt(i) == 'Ё'
                     || string.charAt(i) == 'Ю'
                     || string.charAt(i) == 'И'
-                    || string.charAt(i) == 'A'
+                    || string.charAt(i) == 'А'
                     || string.charAt(i) == 'I'
                     || string.charAt(i) == 'E'
                     || string.charAt(i) == 'O'
